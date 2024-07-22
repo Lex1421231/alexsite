@@ -14,7 +14,10 @@ p {
     margin-top: 25px;
 }
 
-
+.logo{
+    margin-right: 100%;
+    height: 45px;
+}
 
 .blobs {
     position: absolute;
