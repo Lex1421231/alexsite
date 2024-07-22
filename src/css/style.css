@@ -19,6 +19,14 @@ p {
     height: 45px;
 }
 
+.menu{
+    position: absolute;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-decoration: solid;
+}
+
 .blobs {
     position: absolute;
     top: 0;
