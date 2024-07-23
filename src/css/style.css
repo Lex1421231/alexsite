@@ -88,7 +88,7 @@ header {
     margin-left: 20%;
     margin-right: 20%;
     font-size: normal;
-    color: grey;
+    color: rgb(207, 206, 206);
     z-index: 2;
     font-style: italic;
 }
