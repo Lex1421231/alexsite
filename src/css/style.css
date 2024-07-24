@@ -109,7 +109,7 @@ p {
 
 .menu {
     display: flex;
-    height: 200px;
+    height: 140px;
     font-size: medium;
     text-align: center;
     margin-left: 10%;
@@ -117,6 +117,21 @@ p {
     align-items: center;
     justify-content: flex-start;
     gap: 6px;
+}
+
+.contact {
+    display: flex;
+    height: 5px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.groov {
+    height: 16px;
+    width: auto;
 }
 
 .but {
