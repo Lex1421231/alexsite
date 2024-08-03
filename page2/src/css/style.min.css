@@ -8,5 +8,4 @@ body{background-image:url(/src/img/bg.jpg);font-family:Georgia,'Times New Roman'
 .text_liner{width:50%;margin:0 25% 0 25%;opacity:8;margin-bottom:12px}
 .go{text-decoration:none;color:#fff}
 .card_title{margin-top:100px;margin-left:15%;margin-right:17%}
-.col{transition:.8s all}
 .col :hover{transition:2s all;background-color:#fff;color:#000}
