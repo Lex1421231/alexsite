@@ -1,5 +1,6 @@
 body {
-    background-image: url('/src/img/bg.jpg');
+    height: 2500px;
+    background: linear-gradient(to bottom right, black, grey);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
 }
