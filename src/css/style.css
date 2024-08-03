@@ -29,8 +29,8 @@ body {
 }
 
 .navbar-toggler {
-    background-color: rgb(124, 116, 116);
-    color: white;
+    background: linear-gradient(to bottom right, rgb(133, 130, 130), rgb(94, 89, 89));
+
 }
 
 .offcanvas {
