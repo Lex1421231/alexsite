@@ -1,7 +1,7 @@
 body{height:2500px;background:linear-gradient(to bottom right,#000,#363535,#000);font-family:Georgia,'Times New Roman',Times,serif;font-size:x-large}
 .text_head{display:block;margin-top:90px;color:#fff;text-align:center}
 .text{display:block;margin-top:16px;margin-right:20px;margin-left:20px;color:#fff;text-align:center}
-.logo_bar{display:block;height:85px;width:85px;margin-left:36px}
+.logo_bar_home{height:32px;width:32px;margin-left:5px}
 .navbar-toggler{background-color:#7c7474;color:#fff}
 .offcanvas{background-color:#2e2929;color:#fff}
 .img_logo{float:left;height:25px;width:25px;margin:0 auto;margin-left:30px}
