@@ -60,6 +60,7 @@ body {
 }
 
 .btn {
+    background: linear-gradient(to bottom right, rgb(46, 45, 45), rgba(138, 135, 135, 0.267));
     height: 180px;
     width: 180px;
     border-radius: 100%;
@@ -73,5 +74,6 @@ body {
     width: 250px;
     color: rgb(255, 255, 255);
     background-color: rgba(0, 255, 255, 0);
+    background: rgba(0, 0, 0, 0);
     border-color: #ffffff00;
 }
