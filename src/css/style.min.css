@@ -7,5 +7,5 @@ body{height:1000px;background:linear-gradient(to bottom right,#000,#363535,#000)
 .img_logo{float:left;height:25px;width:25px;margin:0 auto;margin-left:30px}
 .text_liner{width:50%;margin:0 25% 0 25%;opacity:8;margin-bottom:12px}
 .go{font-size:xx-large;text-decoration:none;color:#fff}
-.btn{background:linear-gradient(to bottom right,#2e2d2d,rgba(138,135,135,.267));height:180px;width:180px;border-radius:100%;margin-left:50%;transform:translateX(-50%);transition:.8s all}
-.mt-5 :hover{height:180px;width:250px;color:#fff;background-color:rgba(0,255,255,0);background:rgba(0,0,0,0);border-color:#ffffff00}
+.btn{background:linear-gradient(to bottom right,#2e2d2d,rgba(138,135,135,.267));height:80px;width:200px;border-radius:6px;margin-left:50%;transform:translateX(-50%);transition:1.8s all}
+.mt-5 :hover{height:80px;width:300px;color:#fff;background-color:rgba(0,255,255,0);background:rgba(0,0,0,0);border-color:#ffffff00}

@@ -61,17 +61,17 @@ body {
 
 .btn {
     background: linear-gradient(to bottom right, rgb(46, 45, 45), rgba(138, 135, 135, 0.267));
-    height: 180px;
-    width: 180px;
-    border-radius: 100%;
+    height: 80px;
+    width: 200px;
+    border-radius: 6px;
     margin-left: 50%;
     transform: translateX(-50%);
-    transition: 0.8s all;
+    transition: 1.8s all;
 }
 
 .mt-5 :hover {
-    height: 180px;
-    width: 250px;
+    height: 80px;
+    width: 300px;
     color: rgb(255, 255, 255);
     background-color: rgba(0, 255, 255, 0);
     background: rgba(0, 0, 0, 0);
