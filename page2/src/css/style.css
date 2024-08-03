@@ -63,8 +63,6 @@ body {
     margin-right: 17%;
 }
 
-.col :hover {
-    transition: 2s all;
-    background-color: white;
-    color: black;
+.card-text {
+    font-size: 14px;
 }
