@@ -6,6 +6,5 @@ body{background-image:url(/src/img/bg.jpg);font-family:Georgia,'Times New Roman'
 .offcanvas{background-color:#2e2929;color:#fff}
 .img_logo{float:left;height:25px;width:25px;margin:0 auto;margin-left:30px}
 .text_liner{width:50%;margin:0 25% 0 25%;opacity:8;margin-bottom:12px}
-.go{font-size:xx-large;text-decoration:none;color:#fff}
-.btn{height:180px;width:180px;border-radius:100%;margin-left:50%;transform:translateX(-50%);transition:.8s all}
-.mt-5 :hover{height:180px;width:250px;color:#fff;background-color:rgba(0,255,255,0);border-color:#ffffff00}
+.go{text-decoration:none;color:#fff}
+.card_title{margin-top:150px;margin-left:15%;margin-right:15%}

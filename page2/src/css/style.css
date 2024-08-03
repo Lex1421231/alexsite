@@ -53,24 +53,13 @@ body {
 }
 
 .go {
-    font-size: xx-large;
     text-decoration: none;
     color: #ffffff;
 }
 
-.btn {
-    height: 180px;
-    width: 180px;
-    border-radius: 100%;
-    margin-left: 50%;
-    transform: translateX(-50%);
-    transition: 0.8s all;
+.card_title {
+    margin-top: 150px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
-.mt-5 :hover {
-    height: 180px;
-    width: 250px;
-    color: rgb(255, 255, 255);
-    background-color: rgba(0, 255, 255, 0);
-    border-color: #ffffff00;
-}
