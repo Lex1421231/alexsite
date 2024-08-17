@@ -15,11 +15,7 @@ body {
 
 .picture {
   width: 100%;
-  height: 500px;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: bottom;
-     object-position: bottom; }
+  height: 100%; }
 
 .container {
   max-width: 1200px;
@@ -132,25 +128,37 @@ body {
   .container {
     font-size: 20px; }
 
-  .picture {
-    height: 400px; } }
+  .content_item {
+    padding: 15px 15px 15px 15px; } }
 @media (max-width: 760px) {
   .container {
     font-size: 18px; }
 
-  .picture {
-    height: 300px; } }
+  .content_item {
+    padding: 10px 10px 10px 10px; } }
 @media (max-width: 640px) {
   .container {
     font-size: 15px; }
 
-  .picture {
-    height: 200px; } }
+  .content_item {
+    padding: 8px 8px 8px 8px; }
+
+  .navigation_list {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column; } }
 @media (max-width: 480px) {
   .container {
     font-size: 10px; }
 
-  .picture {
-    height: 100px; } }
+  .content_item {
+    padding: 5px 5px 5px 5px; }
+
+  .navigation_list {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column; } }
 
 /*# sourceMappingURL=style.css.map */
