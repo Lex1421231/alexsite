@@ -91,10 +91,54 @@ body {
     height: 90px;
     align-items: center;
     justify-content: space-evenly;
-    
+
 }
 
-.contacts_img{
+.contacts_img {
     height: 25px;
     width: 25px;
+}
+
+@media(max-width: 960px) {
+    .container {
+        font-size: 20px;
+    }
+
+    .picture {
+        height: 400px;
+    }
+
+}
+
+@media(max-width: 760px) {
+    .container {
+        font-size: 18px;
+    }
+
+    .picture {
+        height: 300px;
+    }
+
+}
+
+@media(max-width: 640px) {
+    .container {
+        font-size: 15px;
+    }
+
+    .picture {
+        height: 200px;
+    }
+
+}
+
+@media(max-width: 480px) {
+    .container {
+        font-size: 10px;
+    }
+
+    .picture {
+        height: 100px;
+    }
+
 }
