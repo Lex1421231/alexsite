@@ -2,9 +2,9 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   scroll-behavior: smooth;
-  /*border: 1px;
+  border: 1px;
   border-color: red;
-  border-style: dashed;*/ }
+  border-style: dashed; }
 
 body {
   background: white;
