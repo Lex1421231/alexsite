@@ -1,11 +1,1 @@
-body{height:1000px;background:linear-gradient(to bottom right,#000,#363535,#000);font-family:Georgia,'Times New Roman',Times,serif;font-size:x-large}
-.text_head{display:block;margin-top:90px;color:#fff;text-align:center}
-.text{display:block;margin-top:16px;margin-right:20px;margin-left:20px;color:#fff;text-align:center}
-.logo_bar{display:block;height:85px;width:85px;margin-left:36px}
-.navbar-toggler{background:linear-gradient(to bottom right,#858282,#5e5959)}
-.offcanvas{background-color:#2e2929;color:#fff}
-.img_logo{float:left;height:25px;width:25px;margin:0 auto;margin-left:30px}
-.text_liner{width:50%;margin:0 25% 0 25%;opacity:8;margin-bottom:12px}
-.go{font-size:xx-large;text-decoration:none;color:#fff}
-.btn{background:linear-gradient(to bottom right,#2e2d2d,rgba(138,135,135,.267));height:80px;width:200px;border-radius:6px;margin-left:50%;transform:translateX(-50%);box-shadow:10px 5px 20px red;transition:1.8s all}
-.mt-5 :hover{height:80px;width:300px;color:#fff;background-color:rgba(0,255,255,0);background:rgba(0,0,0,0);border-color:#ffffff00;box-shadow:10px 5px 20px rgba(255,0,0,0)}
+*{-webkit-box-sizing:border-box;box-sizing:border-box;scroll-behavior:smooth;border:1px;border-color:red;border-style:dashed}body{background:#fff;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;min-width:320px}.сontainer{max-width:1200px;margin:0 auto;padding:0 16px}/*# sourceMappingURL=style.min.css.map */
