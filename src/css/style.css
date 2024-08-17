@@ -143,11 +143,11 @@ body {
   .content_item {
     padding: 8px 8px 8px 8px; }
 
-  .navigation_list {
+  /*.navigation_list {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
-            flex-direction: column; } }
+            flex-direction: column; }*/ }
 @media (max-width: 480px) {
   .container {
     font-size: 10px; }
@@ -155,10 +155,10 @@ body {
   .content_item {
     padding: 5px 5px 5px 5px; }
 
-  .navigation_list {
+  /*.navigation_list {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
-            flex-direction: column; } }
+            flex-direction: column; }*/ }
 
 /*# sourceMappingURL=style.css.map */
