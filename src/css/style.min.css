@@ -1,0 +1,30 @@
+*{-webkit-box-sizing:border-box;box-sizing:border-box;scroll-behavior:smooth;border:1px;border-color:red;border-style:dashed}
+body{background:#fff;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;min-width:320px}
+.picture{width:100%;height:500px;-o-object-fit:cover;object-fit:cover;-o-object-position:bottom;object-position:bottom}
+.container{max-width:1200px;margin:0 auto;padding:0 21px;font-family:Antic;color:#575757;font-size:25px}
+.navigation{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;height:auto;padding:20px 20px 20px 20px}
+.navigation_list{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;gap:30px;list-style-type:none;font-weight:700}
+.page{display:-webkit-box;display:-ms-flexbox;display:flex;height:auto;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}
+.page_item{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.page_title{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-top:20px;font-weight:700}
+.page_text{margin-top:30px;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:15px 50px 15px 50px}
+.content{display:-webkit-box;display:-ms-flexbox;display:flex;height:auto;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:20px 20px 20px 20px;gap:20px}
+.content_item{width:100%;height:auto;-o-object-fit:cover;object-fit:cover;-o-object-position:bottom;object-position:bottom;padding:20px 20px 20px 20px}
+.contacts{display:-webkit-box;display:-ms-flexbox;display:flex;height:90px;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:space-evenly;-ms-flex-pack:space-evenly;justify-content:space-evenly}
+.contacts_img{height:25px;width:25px}
+@media (max-width:960px){
+.container{font-size:20px}
+.picture{height:400px}
+}
+@media (max-width:760px){
+.container{font-size:18px}
+.picture{height:300px}
+}
+@media (max-width:640px){
+.container{font-size:15px}
+.picture{height:200px}
+}
+@media (max-width:480px){
+.container{font-size:10px}
+.picture{height:100px}
+}
