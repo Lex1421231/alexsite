@@ -94,9 +94,6 @@ body {
   display: -ms-flexbox;
   display: flex;
   height: auto;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
   padding: 20px 20px 20px 20px;
   gap: 20px; }
 
@@ -142,24 +139,12 @@ body {
     font-size: 15px; }
 
   .content_item {
-    padding: 8px 8px 8px 8px; }
-
-  .navigation_list {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column; } }
+    padding: 8px 8px 8px 8px; } }
 @media (max-width: 480px) {
   .container {
     font-size: 10px; }
 
   .content_item {
-    padding: 5px 5px 5px 5px; }
-
-  .navigation_list {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column; } }
+    padding: 5px 5px 5px 5px; } }
 
 /*# sourceMappingURL=style.css.map */
