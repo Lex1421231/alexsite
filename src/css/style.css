@@ -121,8 +121,8 @@ body {
 
 .content_grid-4 {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr); }
+  grid-template-columns: repeat(2, 0.5fr);
+  grid-template-rows: repeat(2, 0.5fr); }
 
 .content_grid-8 {
   display: grid;
